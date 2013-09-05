@@ -1,6 +1,21 @@
+# Java class files
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
+# Eclipse project files
+.classpath
+.project
+.settings
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# OS X file
+.DS_Store
